@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Muhammad",
+       "lastName": "Anandita",
+       "gender": "male",
+       "age": 19,
+       "nim": "103022300073"
+    },
+    {
+       "firstName": "Muhammad",
+       "lastName": "Ilhan",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022330008"
+    },
+    {
+        "firstName": "Bintang",
+        "lastName": "Ridwan",
+        "gender": "male",
+        "age": 19,
+        "nim": "103022300093"
+    },
+    {
+        "firstName": "Syaifuding",
+        "lastName": "Zuhri",
+        "gender": "male",
+        "age": 20,
+        "nim": "103022300057"
+    },
+    {
+        "firstName": "Aryo",
+        "lastName": "Nititiyoso",
+        "gender": "male",
+        "age": 20,
+        "nim": "103022300114"
+    }
+  ]
+}
