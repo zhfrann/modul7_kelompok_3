@@ -24,7 +24,8 @@ class DataMahasiswa103022300057
     public static void ReadJSON(string fileName)
     {
         string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, fileName);
-        string jsonString = File.ReadAllText(filePath); DataMahasiswa103022300057 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa103022300057>(jsonString);
+        string jsonString = File.ReadAllText(filePath); 
+        DataMahasiswa103022300057 mahasiswa = JsonSerializer.Deserialize<DataMahasiswa103022300057>(jsonString);
         Console.WriteLine($"Nama {mahasiswa.firstName} {mahasiswa.lastName} dengan jenis kelamin {mahasiswa.gender} umur {mahasiswa.age}");
         Console.WriteLine($"Alamat di {mahasiswa.address.streetAddress}, {mahasiswa.address.city}, {mahasiswa.address.state}");
         Console.WriteLine("Mata Kuliah yang diambil:");
