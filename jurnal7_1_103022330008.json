@@ -1,0 +1,37 @@
+{
+   "firstName": "Muhammad Zhafran",
+   "lastName": "Ilham",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Sukapura",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2IAB3",
+      "name": "Dasar Jaringan Komputer"
+    },
+    {
+      "code": "CCK2HAB4",
+      "name": "Basis Data"
+    },
+    {
+      "code": "CCK2FAB4",
+      "name": "Arsitektur dan Desain Perangkat Lunak"
+    },
+    {
+      "code": "CCK2LAB3",
+      "name": "Kecerdasar Buatan"
+    },
+    {
+      "code": "CCK2JAC2",
+      "name": "Proyek Tingkat 2"
+    }
+  ]
+}
