@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul7_kelompok_3", "modul7_kelompok_3.csproj", "{849F8556-C036-464C-A59C-177A8FF00DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849F8556-C036-464C-A59C-177A8FF00DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849F8556-C036-464C-A59C-177A8FF00DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849F8556-C036-464C-A59C-177A8FF00DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849F8556-C036-464C-A59C-177A8FF00DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0700024-EED6-4C3C-B88E-928060A456E1}
+	EndGlobalSection
+EndGlobal
