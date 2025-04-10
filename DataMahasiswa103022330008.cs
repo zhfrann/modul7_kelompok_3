@@ -9,8 +9,8 @@ class Address
 
 class Course
 {
-    public string code { get; set; }
-    public string name { get; set; }
+    public String code { get; set; }
+    public String name { get; set; }
 }
 
 class DataMahasiswa103022330008
