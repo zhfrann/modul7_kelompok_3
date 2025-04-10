@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+      "firstName": "Muhammad Rifki",
+      "lastName": "Anandita",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300073"
+    },
+    {
+      "firstName": "Muhammad Zhafran",
+      "lastName": "Ilham",
+      "gender": "male",
+      "age": 20,
+      "nim": "1030223330008"
+    },
+    {
+      "firstName": "Muhammad Syaidudin",
+      "lastName": "Zuhri",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022300081"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+   "firstName": "Bintang Ridwan",
+   "lastName": "Pribadi",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Tidak di Ketahui",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}
