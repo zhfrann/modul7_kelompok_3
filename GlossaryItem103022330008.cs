@@ -61,6 +61,6 @@ class GlossaryItem103022330008
             Console.Write($"{item}, ");
         }
 
-        Console.WriteLine($"GlossSee: {glossEntry.GlossSee}");
+        Console.WriteLine($"\nGlossSee: {glossEntry.GlossSee}");
     }
 }

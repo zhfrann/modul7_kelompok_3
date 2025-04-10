@@ -8,6 +8,6 @@
         TeamMembers103022330008.ReadJSON();
 
         Console.WriteLine();
-        GlossaryItem103022330008.ReadJSON();
+        GlossaryItem103022330008.ReadJSON();    
     }
 }
